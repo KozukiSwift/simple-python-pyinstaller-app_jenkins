@@ -1,3 +1,7 @@
+environment {
+    PATH = "C:\Users\kozio\AppData\Local\Programs\Python\Python311\python.exe;$PATH"
+}
+
 pipeline {
     agent any 
     stages {
